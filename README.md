@@ -1,23 +1,15 @@
 # 💯 Essential Commands
 
-Quick-reference cheat sheets for everyday dev tooling, focused on Linux (Ubuntu/Debian).
-
-| Tool | What's inside | Link |
-|------|---------------|------|
-| 🔀 **Git** | SSH keys, global config, daily workflow | [git.md](git.md) |
-| 🐳 **Docker** | Engine install, images, containers, compose | [docker.md](docker.md) |
-| ☁️ **AWS CLI** | Install, credentials, S3, DynamoDB | [aws.md](aws.md) |
-| 🟢 **Node.js** | Install, npm, version management | [node.md](node.md) |
-| 💻 **VS Code** | Install, extensions, shortcuts | [vscode.md](vscode.md) |
+Quick-reference cheat sheets for everyday dev tooling, focused on Software Engineering.
 
 | Tool | What's inside |
 |------|---------------|
-| 🔀 [**Git**](git.md) | SSH keys, global config, daily workflow |
-| 🐳 [**Docker**](docker.md) | Engine install, images, containers, compose |
 | ☁️ [**AWS CLI**](aws.md) | Install, credentials, S3, DynamoDB |
-| 🟢 [**Node.js**](node.md) | Install, npm, version management |
+| 🔀 [**Git**](git.md) | SSH keys, global config, daily workflow |
 | 💻 [**TypeScript**](typescript.md) | Install, tsc, tsconfig, compile and run |
+| 🟢 [**Node.js**](node.md) | Install, npm, version management |
 | 🛠️ [**VS Code**](vscode.md) | Install, extensions, shortcuts |
+| 🐳 [**Docker**](docker.md) | Engine install, images, containers, compose |
 
 ## Usage
 
