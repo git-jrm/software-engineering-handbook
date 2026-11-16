@@ -7,7 +7,7 @@ Quick-reference cheat sheets for everyday dev tooling, focused on Software Engin
 | ☁️ [**AWS CLI**](aws.md) | Install, credentials, S3, DynamoDB |
 | 🔀 [**Git**](git.md) | SSH keys, global config, daily workflow |
 | 💻 [**TypeScript**](typescript.md) | Install, tsc, tsconfig, compile and run |
-| 💻 [**Python fundamentals**](python-fundamentals.md) | Hands-on Python course |
+| 💻 [**Python fundamentals (ES)**](python-fundamentals.md) | [ES] Hands-on Python course |
 | 🟢 [**Node.js**](node.md) | Install, npm, version management |
 | 🛠️ [**VS Code**](vscode.md) | Install, extensions, shortcuts |
 | 🐳 [**Docker**](docker.md) | Engine install, images, containers, compose |
