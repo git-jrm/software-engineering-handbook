@@ -17,7 +17,8 @@ Quick-reference cheat sheets for everyday engineering tooling: install, configur
 
 | Course | What's inside |
 |--------|---------------|
-| 🐍 [**Python fundamentals**](python-course.md) | Hands-on course in Spanish covering the language fundamentals |
+| 🐍 [**Python course**](python-course.md) | Hands-on course in Spanish covering the language fundamentals |
+| 🐍 [**Python exercises**](python-course-exercises.md) | Fundamental exercises  |
 
 ## Usage
 
