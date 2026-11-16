@@ -1,10 +1,10 @@
 # PyLearningHub
 
-Bienvenid@ a `PyLearningHub` nuestro programa inteligente para aprender Python en sólo 6 lecciones, desde fundamentos hasta técnicas avanzadas.
+Curso práctico con fundamentos, excepciones, modulos, librería estandar y POO.
 
 Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir escribiendo y ejecutando. Requerimientos técnicos: tener instalado Python 3.12+ y algún IDE como VS Code. Alternativamente, si no puede instalar use Google Colab `colab.research.google.com`.
 
-El contenido está cuidadosamente organizado para ofrecer una experiencia de aprendizaje secuencial y progresiva.
+El contenido está cuidadosamente organizado para ofrecer una experiencia de aprendizaje progresiva y secuencial.
 
 > ¡Empecemos!
 
