@@ -1,6 +1,6 @@
 [⬅️Home](./README.md)
 
-# 🟢 Node.js: Essential Commands
+# 🟢 Node.js Essential Commands
 
 ## 📁 Install node via fnm: for better performance
 using fnm (fast node manager) instead of nvm (node version manager) 
