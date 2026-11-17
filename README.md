@@ -9,7 +9,7 @@ Quick-reference cheat sheets for everyday engineering tooling (install, configur
 | ☁️ [**AWS CLI**](aws.md) | Install, credentials, S3, DynamoDB |
 | 🔀 [**Git**](git.md) | SSH keys, global config, daily workflow |
 | 🐳 [**Docker**](docker.md) | Engine install, images, containers, compose |
-| 🟢 [**Node.js**](node.md) | Install, npm, version management |
+| 🟢 [**Node Essential**](node.md) | Install, npm, version management |
 | 🟦 [**TypeScript**](typescript.md) | Install, tsc, tsconfig, compile and run |
 | 🛠️ [**VS Code**](vscode.md) | Install, extensions, shortcuts |
 
