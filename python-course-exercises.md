@@ -12,7 +12,7 @@ Además en este módulo se realizó el proyecto [PyLearningHub](https://github.c
 - [Clase 2 - ejercicio 1 : Verifica beneficio](#clase-2---ejercicio-1)
 - [Clase 3 - ejercicio 1 : Verifica beneficio modularizado](#clase-3---ejercicio-1)
 - [Clase 4 - ejercicio 1 : Promedio y aprobados](#clase-4---ejercicio-1)
-- [Clase 4 - ejercicio 2 : Alumnos mayores y menores](#clase-4---ejercicio-2)
+- [Clase 4 - ejercicio 2 : Empleados mayores y menores](#clase-4---ejercicio-2)
 - [Clase 5 - ejercicio 1 : Modelado clase Auto](#clase-5---ejercicio-1)
 - [Clase 6 - ejercicio 1 : Excepción personalizada](#clase-6---ejercicio-1)
 - [Evolución del Aprendizaje](#evolución-del-aprendizaje-)
@@ -97,6 +97,50 @@ Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 3
 Número 1: 5
 Número 2: 10
 Resultado: 50
+Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 5
+```
+
+### BONUS: despacho con diccionario de funciones
+> Explicación : Alternativa sin `eval` ni `if/elif`: un diccionario asocia cada opción con su función, y la división por cero se captura con `try/except`.
+```Python
+def suma(a, b):
+    return a + b
+def resta(a, b):
+    return a - b
+def mult(a, b):
+    return a * b
+def div(a, b):
+    return a / b
+
+ops = {1: suma, 2: resta, 3: mult, 4: div}  # despacho: opción -> función
+
+while True:
+    op = int(input("Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : "))
+    if op == 5: break
+    if op not in ops: continue
+
+    a, b = int(input("Número 1: ")), int(input("Número 2: "))
+
+    try:
+        print(f"Resultado: {ops[op](a, b)}")
+    except ZeroDivisionError:
+        print("Error: División por cero")
+```
+
+**Instrucción 💻** ejecutar `$ python3 M2-06-02/01-calc3.py`
+```Bash
+Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 3
+Número 1: 5
+Número 2: 10
+Resultado: 50
+Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 4
+Número 1: 10
+Número 2: 4
+Resultado: 2.5
+Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 4
+Número 1: 4
+Número 2: 0
+Error: División por cero
 Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 5
 ```
 
@@ -275,7 +319,7 @@ aprobadas: [80, 60, 85, 69]
 
 ## Clase 4 - ejercicio 2
 
-### Alumnos mayores y menores 👥
+### Empleados mayores y menores 👥
 > Explicación : Se pide clasificar según edad del empleado:
 ```Python
 emp = {
@@ -287,7 +331,7 @@ emp = {
 menores = []
 
 for k, v in emp.items():
-    if v['edad'] > 30:
+    if v['edad'] >= 30:
         print(f"{k} {v['nombre']} es mayor con {v['edad']} años")
     elif v['edad'] < 30:
         menores.append(v['nombre'])
