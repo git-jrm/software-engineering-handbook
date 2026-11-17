@@ -6,7 +6,7 @@ Ejercicios y `Scripts` desarrollados en clases, los conocimientos y experiencias
 
 También encontrarás por cada ejercicio una explicación detallada, instruccines para ejecutar, comentarios en las instrucciones y evidencia de pruebas.
 
-Este material se realizó en conjunto con [Python course](python-course.md).
+Estos ejercicios se realizaron en conjunto con [Python course](python-course.md).
 
 ## Índice:
 - [Clase 1 - ejercicio 1 : Calculadora básica](#clase-1---ejercicio-1)
