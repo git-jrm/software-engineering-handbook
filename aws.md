@@ -1,6 +1,6 @@
 [⬅️Home](./README.md)
 
-# AWS
+# ☁️ AWS CLI Commands
 
 ## ⚙️ AWS CLI instalation (Linux)
 ```bash
