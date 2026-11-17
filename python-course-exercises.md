@@ -9,7 +9,7 @@ También encontrarás por cada ejercicio una explicación detallada, instruccine
 > Estos ejercicios se complementan en conjunto con: [Python course](python-course.md).
 
 ## Índice:
-- [Clase 1 - ejercicio 1 : Calculadora básica](#clase-1---ejercicio-1)
+- [Clase 1 - ejercicio 1 : Calculadora](#clase-1---ejercicio-1)
 - [Clase 1 - ejercicio 2 : Verifica mayor](#clase-1---ejercicio-2)
 - [Clase 2 - ejercicio 1 : Verifica beneficio](#clase-2---ejercicio-1)
 - [Clase 3 - ejercicio 1 : Verifica beneficio modularizado](#clase-3---ejercicio-1)
