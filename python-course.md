@@ -8,6 +8,8 @@ Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir
 
 El contenido está cuidadosamente organizado para ofrecer una experiencia de aprendizaje progresiva y secuencial.
 
+> Este material se complementa con: [Python exercises](python-course-exercises.md).
+
 > ¡Empecemos!
 
 ## Lecciones:
