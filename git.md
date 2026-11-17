@@ -1,6 +1,6 @@
 [⬅️Home](./README.md)
 
-# 🔀 Git: Essential Commands
+# 🔀 Git Commands
 
 ## 🛠️ Env
 * **`ssh-keygen -t ed25519 -C "email@email.com"`:** Generate a new SSH key pair.
