@@ -1,9 +1,6 @@
-# 💯 Software Engineering Handbook
-
-Quick-reference cheat sheets for everyday engineering tooling: install, configure and the commands you actually use, ready to copy and paste.
+# 📘 Software Engineering Handbook
 
 Quick-reference cheat sheets for everyday engineering tooling (install, configure and the commands you actually use, ready to copy and paste), plus a hands-on Python course and exercises in Spanish (ES).
-
 
 ## Cheatsheets
 
@@ -16,12 +13,12 @@ Quick-reference cheat sheets for everyday engineering tooling (install, configur
 | 💻 [**TypeScript**](typescript.md) | Install, tsc, tsconfig, compile and run |
 | 🛠️ [**VS Code**](vscode.md) | Install, extensions, shortcuts |
 
-## Course
+## Learning (ES)
 
-| Course | What's inside |
-|--------|---------------|
-| 🐍 [**Python course (ES)**](python-course.md) | Hands-on course in Spanish covering the language fundamentals |
-| 🐍 [**Python exercises (ES)**](python-course-exercises.md) | Fundamental exercises  |
+| Resource | What's inside |
+|----------|---------------|
+| 🐍 [**Python course**](python-course.md) | Hands-on course with 6 lessons on Python fundamentals |
+| 📝 [**Python exercises**](python-course-exercises.md) | 8 class exercises with output: functions, error handling, modularization, collections, OOP and custom exceptions |
 
 ## Usage
 
@@ -37,5 +34,5 @@ Every cheat sheet links back to this page through its **Home** link.
 ## Conventions
 
 - Written for Linux (Ubuntu/Debian) unless noted.
+- The Python course and exercises are in Spanish.
 - Commands marked `old` in `docker.md` still work but have a newer equivalent (`docker image ls`, `docker container ls`, etc.).
-
