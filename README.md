@@ -2,6 +2,9 @@
 
 Quick-reference cheat sheets for everyday engineering tooling: install, configure and the commands you actually use, ready to copy and paste.
 
+Quick-reference cheat sheets for everyday engineering tooling (install, configure and the commands you actually use, ready to copy and paste), plus a hands-on Python course and exercises in Spanish (ES).
+
+
 ## Cheatsheets
 
 | Tool | What's inside |
@@ -17,8 +20,8 @@ Quick-reference cheat sheets for everyday engineering tooling: install, configur
 
 | Course | What's inside |
 |--------|---------------|
-| 🐍 [**Python course**](python-course.md) | Hands-on course in Spanish covering the language fundamentals |
-| 🐍 [**Python exercises**](python-course-exercises.md) | Fundamental exercises  |
+| 🐍 [**Python course (ES)**](python-course.md) | Hands-on course in Spanish covering the language fundamentals |
+| 🐍 [**Python exercises (ES)**](python-course-exercises.md) | Fundamental exercises  |
 
 ## Usage
 
