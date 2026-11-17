@@ -62,7 +62,7 @@ Número 2: 0
 Error: División por cero
 Elija opcion:   (1)+   (2)-   (3)*   (4)/   (5)Salir   : 5
 ```
-Versión optimizada con `eval`:
+Versión optimizada con `eval` (segura aquí porque las entradas pasan por int()):
 ```Python
 ops = {1: '+', 2: '-', 3: '*', 4: '/'}
 
