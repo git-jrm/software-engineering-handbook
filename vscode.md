@@ -1,6 +1,6 @@
 [⬅️Home](./README.md)
 
-# 🛠️ Essential VS Code Shortcuts
+# 🛠️ VS Code: Essential Shortcuts
 
 ## 🔟 Top 10
 
