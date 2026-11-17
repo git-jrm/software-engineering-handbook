@@ -1,6 +1,6 @@
 [⬅️Home](./README.md)
 
-# 🐳 Docker: Essential Commands
+# 🐳 Docker Commands
 
 ## 🛠️ Env
 * **`sudo apt update`:** Refresh package index.
