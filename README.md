@@ -1,4 +1,4 @@
-# 💯 Software Engineering Cheatsheets
+# 💯 Software Engineering Handbook
 
 Quick-reference cheat sheets for everyday engineering tooling: install, configure and the commands you actually use, ready to copy and paste.
 
@@ -25,8 +25,8 @@ Quick-reference cheat sheets for everyday engineering tooling: install, configur
 Browse the cheat sheet you need on GitHub, or clone the repo to keep it offline:
 
 ```bash
-git clone https://github.com/git-jrm/software-engineering-cheatsheets.git
-cd software-engineering-cheatsheets
+git clone https://github.com/git-jrm/software-engineering-handbook.git
+cd software-engineering-handbook
 ```
 
 Every cheat sheet links back to this page through its **Home** link.
