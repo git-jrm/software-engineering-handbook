@@ -1,4 +1,6 @@
-# TypeScript
+[⬅️Home](./README.md)
+
+# 🟦 TypeScript
 
 TypeScript is strongly and statically typed. No type mismatches by compile-time checking and Type inference.
 
